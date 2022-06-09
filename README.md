@@ -1,4 +1,4 @@
-# Readme siinc_dir_to_dir.py
+# Readme sync_dir_to_dir.py
 
 sync_dir_to_dir.py - программа синхронизации каталогов и файлов между каталогом-источником и каталогом-репликой.
 
