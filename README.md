@@ -1,4 +1,4 @@
-# For_Veeam
+# siinc_dir_to_dir
 sync_dir_to_dir.py
 
 sync_dir_to_dir.py - программа синхронизации каталогов и файлов между каталогом-источником(dir_prime) и каталогом-репликой(dir_second)
