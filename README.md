@@ -3,7 +3,8 @@ sync_dir_to_dir.py
 
 sync_dir_to_dir.py - программа синхронизации каталогов и файлов между каталогом-источником(dir_prime) и каталогом-репликой(dir_second)
 
-Программу следует запускать в виде: python path_to_program\sync_dir_to_dir.py dir_prime to dir_second  -l dir_log_file  -p  time_to_repeat
+Программу следует запускать из командной строки в виде: path_to_program\sync_dir_to_dir.py dir_prime to dir_second  -l dir_log_file  -p  time_to_repeat
+
 Где:
 to  обязательный ключ, от него строится пути каталога-источника(dir_prime) и каталога-реплики (dir_prime)
 -l опциональный ключ, создает лог-файл. Путь, имя файла лога и расширение задается пользователем. Если не задан, сделает лог в папку где лежит программа. 
