@@ -1,5 +1,6 @@
 # For_Veeam
 Описание программы sync_dir_to_dir.py
+
 Программа синхронизации каталогов и файлов между каталогом-источником(dir_prime) и каталогом-репликой (dir_prime)
 
 Программу следует запускать в виде: python path_to_programm\sync_dir_to_dir.py dir_prime to dir_second  -l dir_log_file  -p  time_to_repeat
